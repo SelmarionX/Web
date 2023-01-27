@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(42, 152, 84);
+}
+
+h1 {
+    color: rgb(0, 13, 255);
+}
+
+p {
+    color: black;
+}
+
+ul {
+    color: brown;
+}
+
+.big_text {
+    font-size: 40px;
+}
+a {
+    text-decoration: none;
+    font-size: 40px;
+}
